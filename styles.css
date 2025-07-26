@@ -12,3 +12,13 @@
 .navbar {
     height: 75px; /* Adjust the height as needed */
 }
+
+.navbar-brand {
+  font-size: 22pt;
+  /* font-family: "Georgia", serif; */
+  font-weight: bold;
+}
+
+h1.title {
+  font-size: 30pt;
+}

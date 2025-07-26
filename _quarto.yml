@@ -3,25 +3,35 @@ project:
   output-dir: "." 
 
 website:
-  title: Alivia R. Cochran
+  title: "Alivia R. Cochran"
   navbar:
-    # background: "#1c4982"
+    background: "black"
     pinned: true
+    search: false
     left:
+      - text: ''
+        href: ''
+    right:
+      - text: Research
+        href: research.qmd
+      - text: Teaching
+        href: teaching.qmd
       - text: CV
         href: resume-example.pdf
-
-  page-footer: 
-    center: "Powered with GitHub and Quarto<br>© Alivia R. Cochran, 2024"
+            
+  # page-footer: 
+  #   center: "Powered with GitHub, Quarto, and Jupyter Notebook<br>© YOUR NAME, 2025"
 
 format:
   html:
-    theme: 
-      light: flatly # flatly sandstone yeti united litera journal
-      dark: darkly #  darkly cyborg slate solra superhero
-    mainfont: system-ui; 
+    theme: cyborg
+      # light: flatly # flatly sandstone yeti united litera journal
+      # dark: darkly #  darkly cyborg slate solra superhero
+    mainfont: Arial # system-ui; Agbalumo; sans-serif; monospace
     highlight-style: atom-one  # atom-one espresso
     css: styles.css
     toc: false
     include-after-body: target_blank.html
+    
+fontsize: 16pt
 

@@ -1,5 +1,5 @@
 ---
-title: Alivia R. Cochran
+title: "Alivia R. Cochran" 
 about:
   template: trestles  # jolla  trestles  solana  marquee  broadside
   image: img/profile.png
@@ -7,29 +7,26 @@ about:
   image-shape: rounded # rectangle  round  rounded
   
   links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/alivia-cochran
-    - icon: github
-      text: GitHub
-      href: https://github.com/arcecon
+    - icon: file-earmark-pdf
+      text: CV
+      href: resume-example.pdf
+      target: _blank
     - icon: mailbox
       text: Email
       href: mailto:acochra6@uwyo.edu
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/alivia-cochran
+      target: _blank
 
 ---
 
 
-Finley Malloc majors in Data Analytics at SUNY Geneseo. When not working on data analytics, Finley enjoys spending time unicycling and playing with her pet iguana.
+#### Overview
+Alivia Cochran is a Ph.D. Candidate in the Economics Department at the University of Wyoming. She applies microeconomic theory and causal inference methods to examine how energy investments are impacted by changes in policies and prices.
 
-## Education
-
-State University of New York at Geneseo | Geneseo, NY <br>
-B.S. in Data Analytics | Aug 2022 - May 2026 <br>
-Minor in Business Administration 
-
-## Experience
-
-Starbucks Analytics | Data Analyst Intern | May 2024 - Aug 2024
-
-
+#### Research Interests
+- Energy Economics
+- Environmental Economics
+- Applied Microeconomic Theory
+- Applied Economics
