@@ -1,24 +1,105 @@
 /* css styles */
 
-.nav-title{
-  font-family: fantasy
-}
-
-/* to fix the width of body and navbar with invisible scrollbar */
-::-webkit-scrollbar {
-    width: 0px;
-}
-
-.navbar {
-    height: 75px; /* Adjust the height as needed */
-}
-
-.navbar-brand {
-  font-size: 22pt;
-  /* font-family: "Georgia", serif; */
-  font-weight: bold;
-}
-
+/* Page title size */
 h1.title {
   font-size: 30pt;
+}
+
+/* Force Quarto/Bootstrap navbar to always show hamburger (mobile style) */
+
+/* Force navbar to always collapse (mobile style) */
+.navbar-expand-lg .navbar-collapse {
+  display: none !important;
+}
+
+.navbar-expand-lg .navbar-toggler {
+  display: block !important;
+  order: 1;
+  margin-right: 0.5rem;
+}
+
+/* Make hamburger white */
+.navbar-toggler-icon {
+  width: 30px;
+  height: 30px;
+  background-image: url("data:image/svg+xml;charset=UTF8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255,1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+}
+
+/* Keep brand (title) next to hamburger */
+.navbar-brand {
+  order: 2;
+  margin-left: 0.5rem;
+  display: flex;
+  align-items: center;
+}
+
+/* Container left alignment */
+.navbar .container-fluid {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  position: relative;
+}
+
+/* Dropdown menu directly under hamburger */
+.navbar-collapse.show {
+  display: block !important;
+  position: absolute;
+  top: 100%;      /* below navbar */
+  left: 0;        /* align with hamburger */
+  background-color: black;
+  padding: 0.25rem 0;
+  z-index: 9999;
+  min-width: 150px;
+}
+
+/* Stack links vertically */
+.navbar-collapse a {
+  display: block;
+  color: white !important;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  margin: 0;
+}
+
+.navbar-collapse a:hover {
+  background-color: black;
+  text-decoration: underline;
+}
+
+/* Dropdown menu directly under hamburger */
+.navbar-collapse.show {
+  display: block !important;
+  position: absolute;
+  top: 100%;      /* below navbar */
+  left: 0;        /* align with hamburger */
+  background-color: black;
+  padding: 0.25rem 0;
+  z-index: 9999;
+  min-width: 150px;
+
+  /* make links stack vertically */
+  flex-direction: column !important;  
+}
+
+/* Ensure nav items stack vertically */
+.navbar-collapse .navbar-nav {
+  flex-direction: column !important;  /* key: stack links */
+}
+
+/* Stack links vertically */
+.navbar-collapse a.nav-link {
+  display: block;
+  color: white !important;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  margin: 0;
+}
+
+.navbar-collapse a.nav-link:hover {
+  background-color: black;
+  text-decoration: underline;
 }

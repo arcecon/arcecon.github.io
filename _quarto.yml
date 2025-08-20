@@ -1,7 +1,7 @@
 project: 
   type: website
   output-dir: "." 
-
+  
 website:
   title: "Alivia R. Cochran"
   navbar:
@@ -9,16 +9,25 @@ website:
     pinned: true
     search: false
     left:
-      - text: ''
-        href: ''
-    right:
       - text: Research
         href: research.qmd
       - text: Teaching
         href: teaching.qmd
       - text: CV
         href: resume-example.pdf
-            
+
+  # sidebar:
+  #   style: "docked"
+  #   search: true
+  #   contents:
+  #     - text: "Research"
+  #       href: research.qmd
+  #     - text: "Teaching"
+  #       href: teaching.qmd
+  #     - text: "CV"
+  #       href: resume-example.pdf
+  #       target: _blank
+
   # page-footer: 
   #   center: "Powered with GitHub, Quarto, and Jupyter Notebook<br>© Alivia R. Cochran, 2025"
 
