@@ -2,7 +2,12 @@
 title: "Alivia R. Cochran" 
 about:
   template: trestles  # jolla  trestles  solana  marquee  broadside
-  image: img/profile.png
+  image: my_headshots/IMG_9189.png
+  # favorites:
+    # 9347
+    # 9303
+    # 9189
+    # 9258
   image-width: 16em
   image-shape: rounded # rectangle  round  rounded
   
