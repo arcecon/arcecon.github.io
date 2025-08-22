@@ -14,7 +14,7 @@ editor: visual
    Presented at the
    
    - Heartland Environmental and Resource Economics Workshop at Illinois (2024)
-   - 25th Annual CU Environmental and Resource Economics Workshop (2024)
+   - 25th Annual University of Colorado Environmental and Resource Economics Workshop (2024)
    - International Conference on Finance for the Common Good (2024)
    - Western Economic Association International Conference (2024)
    - 13th Annual Front Range Energy and Environmental Economics Camp (2024)
@@ -60,7 +60,7 @@ editor: visual
 
 1. <span style="color:white">**Research Assistant for Professor Charles F. Mason, University of Wyoming** (2021 -- Present)</span>
 
-   - Associate Editor for the journal *Economics of Energy and Environmental Policy*.
+   - Associate Editor for the journal *Economics of Energy and Environmental Policy*
      - Finding and inviting referees for submitted articles, and reviewing submitted articles.
    - Conducting research for a grant through the Alfred P. Sloan Foundation to assess policy strategies for scaling carbon capture and storage in the United States. 
    - Constructing a theoretical model on the investment decision in carbon capture, utilization, and storage (CCUS), and solving the model via numerical simulation. 
