@@ -3,4 +3,74 @@ title: "Research"
 editor: visual
 ---
 
-Hello.
+<ol class="white-bullets-ol">
+
+<div style="margin-top:4em;"></div>
+
+<span style="color:white; font-size:25pt;">**Dissertation**</span>
+
+1. <span style="color:white">**Job Market Paper:** *The optimal decision to invest in carbon capture, utilization, and storage (CCUS): An investment under uncertainty framework* (with Charles F. Mason)</span>
+
+   Presented at the
+   
+   - Heartland Environmental and Resource Economics Workshop at Illinois (2024)
+   - 25th Annual CU Environmental and Resource Economics Workshop (2024)
+   - International Conference on Finance for the Common Good (2024)
+   - Western Economic Association International Conference (2024)
+   - 13th Annual Front Range Energy and Environmental Economics Camp (2024)
+   - Symposium on Assessing Policy Strategies for Scaling Carbon Capture and Storage in the United States (2024)
+   - Colorado State University/University of Wyoming Seminar (2024)
+
+   <div style="margin-top:-0.5em;"></div>
+
+   **Abstract**: We examine the optimal timing of a firm's decision to invest in a CCUS facility using an investment under uncertainty framework. The uncertainties we include that affect the firm's investment decision are profits (via a geometric Brownian motion [GBM]) and policies (via a Poisson arrival process). We find both an increase in the value and variation of the investment when both uncertainties are included, and the increase in variation causes the firm to wait longer to invest in the CCUS facility than if neither uncertainty or if only one uncertainty is included.
+   
+<div style="margin-top:1.5em;"></div>
+
+2. <span style="color:white">*Impacts of state-level policies on wind farm investments*</span>
+
+   **Abstract**: I examine how taxes and tax exemptions across states affect wind farm investments by using two methods. I first use a synthetic control method to examine the impacts of the Texas Chapters 312 and 313 tax codes on wind farm investments. I then conduct a staggered difference-in-differences (DiD) method, where I quantify the effects of both state-level tax incentives and taxes on wind farm investments.
+   
+<div style="margin-top:4em;"></div>
+
+<span style="color:white; font-size:25pt;"> **Works in Progress**
+
+1. <span style="color:white">*Firm's optimal decision to invest in a wind farm using an investment under uncertainty framework*</span> 
+
+   Presented at the
+
+   - Midwest Economics Association Conference (2025)
+   - Eastern Economic Association Conference (2025)
+   - Southern Economic Association Conference (2023)
+   - 2nd Year Paper Symposium (2022)
+   
+   <div style="margin-top:-0.5em;"></div>
+
+   **Abstract**: I examine the optimal timing of a firm's investment decision in a wind farm using an investment under uncertainty framework. I examine three sources of uncertainty that affect the firm's investment decision - weather patterns, electricity prices, and policies. The results show that greater uncertainty in weather patterns, electricity prices, and policies increase the time the firm waits to invest in the wind farm.
+
+<div style="margin-top:1.5em;"></div>
+
+2. <span style="color:white">*The value of managing a common pool resource* (with Jason F. Shogren, Irene Zapata-Mor&aacute;n, Nida Zafar, and Srutakirti Mukherjee)</span>
+
+   **Abstract**: We conduct a choice experiment to elicit people's preferences for institutions that manage a common pool resource. Our results will help policymakers choose an institution that has the most public support for managing a common pool resource.
+   
+<div style="margin-top:4em;"></div>
+
+<span style="color:white; font-size:25pt;">**Research Experience**</span>
+
+1. <span style="color:white">**Research Assistant for Professor Charles F. Mason, University of Wyoming** (2021 -- Present)</span>
+
+   - Associate Editor for the journal *Economics of Energy and Environmental Policy*.
+     - Finding and inviting referees for submitted articles, and reviewing submitted articles.
+   - Conducting research for a grant through the Alfred P. Sloan Foundation to assess policy strategies for scaling carbon capture and storage in the United States. 
+   - Constructing a theoretical model on the investment decision in carbon capture, utilization, and storage (CCUS), and solving the model via numerical simulation. 
+   - Conducting a literature review on real options approaches for CCUS.
+   
+<div style="margin-top:1.5em;"></div>
+   
+2. <span style="color:white">**Intern - Student Trainee Economist, Federal Energy Regulatory Commission** (2023)</span>
+
+   - Creating an interactive map that shows company-level receipt and delivery points at physical natural gas hubs along a pipeline.
+   - Constructing a dashboard that shows number of physical and financial transactions on each natural gas hub for a selected company and period.
+   
+</ol>

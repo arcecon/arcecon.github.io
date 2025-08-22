@@ -5,6 +5,18 @@ h1.title {
   font-size: 30pt;
 }
 
+/* Make ordered list numbers white */
+.white-bullets-ol li::marker {
+  color: white !important;
+}
+
+/* Custom spacing for paragraphs inside numbered lists */
+ol li p {
+    margin-top: 0.25em;
+    margin-bottom: 0.25em;
+    line-height: 1.5;
+}
+
 /* Force Quarto/Bootstrap navbar to always show hamburger (mobile style) */
 
 /* Force navbar to always collapse (mobile style) */
