@@ -1,0 +1,65 @@
+---
+title: "Academic Service and Workshops"
+editor: visual
+---
+
+<ol class="white-bullets-ol">
+
+<div style="margin-top:4em;"></div>
+
+<span style="color:white; font-size:25pt;">**Academic Service**</span>
+
+1. <span style="color:white">**Member of the Association of Environmental and Resource Economists (AERE) Graduate Student Engagement Committee, AERE** (2024 -- Present)</span>
+   - Conducting and facilitating panels for graduate students, hosting the Emerging Professionals Social at AERE-affiliated conferences, organizing the AERE mentorship program, and allocating funds to graduate students to attend the AERE Summer Conference.
+
+<div style="margin-top:1.5em;"></div>
+
+2. <span style="color:white">**Reviewer of Abstract Submissions for the 2025 AERE at Western Economic Association International (WEAI) Conference, AERE** (2024)</span>
+   - Ranking and providing feedback on 8 abstracts submitted to the AERE sessions at the 2025 WEAI Conference.
+
+<div style="margin-top:1.5em;"></div>
+
+3. <span style="color:white">**Organizer for the Colorado State University/University of Wyoming Seminar, University of Wyoming** (2023 -- 2024)</span>
+   - Creating and organizing the all-day event by meeting with Colorado State University's Economics and Agricultural Economics Departments, gathering papers for the speakers, catering breakfast and lunch, and providing welcoming and closing speeches.
+   - The seminar is now in its 3rd year.
+
+<div style="margin-top:1.5em;"></div>
+
+4. <span style="color:white">**Member of the AERE Graduate Student Advisory Board, AERE** (2023)</span>
+   - Providing input and feedback on activities that the AERE Graduate Student Engagement Committee conducts.
+
+<div style="margin-top:1.5em;"></div>
+
+5. <span style="color:white">**Graduate Student Representative for the College of Business Diversity, Equity, and Inclusion Committee, University of Wyoming** (2021 -- 2022)</span>
+   - Informing faculty, staff, and students about diversity, equity, and inclusion by conducting student listening sessions.
+
+<div style="margin-top:1.5em;"></div>
+
+6. <span style="color:white">**Vice President for the Wyoming Women in Economics Network, University of Wyoming** (2021 -- 2022)</span>
+   - Communicating with students in the College of Business about women's experiences in the workforce.
+
+<div style="margin-top:4em;"></div>
+
+<span style="color:white; font-size:25pt;"> **Workshops**</span>
+
+1. <span style="color:white">**Participant in the Advanced Research Projects Agency - Energy Student Program, The U.S. Department of Energy** (2023)</span>
+   - Serving as a student mentor to help a student pitch their idea to venture capitalists and funding agencies.
+
+<div style="margin-top:1.5em;"></div>
+
+2. <span style="color:white">**Participant in the Committee on the Status of Women in the Economics Profession Program, Southern Economic Association Conference** (2022)</span>
+   - Receiving feedback on my proposal for a dissertation topic, and networking with women professors and Ph.D. students.
+
+<div style="margin-top:1.5em;"></div>
+
+3. <span style="color:white">**Participant in the Research Experience in Carbon Sequestration Program, The U.S. Department of Energy** (2022)</span>
+   - Participating in an intensive 10 day program designed to expose participants to the engineering, chemistry, geology, communications, business, and policy aspects of carbon capture, utilization, and storage.
+   - Only 1 out of every 5 applicants were accepted to participate.
+
+<div style="margin-top:1.5em;"></div>
+
+4. <span style="color:white">**Participant in the Colorado Technology Primer for Economists and Social Scientists, Colorado School of Mines** (2021)</span>
+   - Learning about the electricity grid, Independent System Operators (ISOs), and policymakers' interests in the electricity grid.
+   - Networking with engineering and economics Ph.D. students, professors, NREL researchers, and ISO employees.
+
+</ol>

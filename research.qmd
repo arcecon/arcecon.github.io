@@ -33,7 +33,7 @@ editor: visual
    
 <div style="margin-top:4em;"></div>
 
-<span style="color:white; font-size:25pt;"> **Works in Progress**
+<span style="color:white; font-size:25pt;"> **Works in Progress**</span>
 
 1. <span style="color:white">*Firm's optimal decision to invest in a wind farm using an investment under uncertainty framework*</span> 
 

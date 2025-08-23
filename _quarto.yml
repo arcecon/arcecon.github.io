@@ -13,8 +13,8 @@ website:
         href: research.qmd
       - text: Teaching
         href: teaching.qmd
-      - text: CV
-        href: resume-example.pdf
+      - text: Service and Workshops
+        href: academic_service.qmd
 
   # sidebar:
   #   style: "docked"
