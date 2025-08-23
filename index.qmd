@@ -14,7 +14,7 @@ about:
   links:
     - icon: file-earmark-pdf
       text: CV
-      href: resume-example.pdf
+      href: CV_Alivia_Cochran_August_2025.pdf
       target: _blank
     - icon: mailbox
       text: Email
