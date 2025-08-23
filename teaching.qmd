@@ -3,4 +3,54 @@ title: "Teaching"
 editor: visual
 ---
 
-Hello.
+<ol class="white-bullets-ol">
+
+<div style="margin-top:4em;"></div>
+
+1. <span style="color:white">**Guest Speaker for ECON 620 -- Industrial Organization and the Energy Sector, Rice University** (2025)</span>
+   - Teaching Economics Master's students about carbon capture, utlization, and storage (CCUS) and how firms optimally invest in CCUS.
+   - Explaining the concepts of mothballing and uncertain profits and policies.
+
+<div style="margin-top:1.5em;"></div>
+
+2. <span style="color:white">**Instructor of Record for ECON 1010 -- Principles of Macroeconomics, University of Wyoming** (2023)</span>
+   - Teaching 150 students during the Fall 2023 semester on Mondays, Wednesdays, and Fridays from 9:00-9:50 a.m.
+   - Creating class lectures, creating exams, and tutoring during office hours.
+
+<div style="margin-top:1.5em;"></div>
+
+3. <span style="color:white">**EconHelp Tutor, University of Wyoming** (2020 -- 2021)</span>
+   - Tutoring every undergraduate economics course offered during the 2020-2021 academic year.
+   - Courses tutored: 
+     - Global Economic Issues
+     - Principles of Macroeconomics
+     - Principles of Microeconomics
+     - Economics of Environment
+     - Intermediate Macroeconomics
+     - Intermediate Microeconomics
+     - Intermediate Econometric Theory
+     - Evolution of Economic Ideas
+     - Game Theory
+     - Environmental Economics
+     - Math Microeconomics
+     - Natural Resource Economics
+     - Computational Economics
+
+<div style="margin-top:1.5em;"></div>
+
+4. <span style="color:white">**Tutorial Services Peer Tutor, University of Northern Colorado**</span> 
+   <div style="margin-top:-0.03em;"></div>
+   <span style="color:white">(2018 -- 2020)</span>
+   - College Reading and Learning Association Level 2 certified tutor in 100-300 level economics, mathematics, and Spanish courses.
+   - Courses tutored: 
+     - Principles of Microeconomics
+     - Principles of Macroeconomics
+     - Intermediate Microeconomics
+     - Intermediate Macroeconomics
+     - Calculus I
+     - Calculus II
+     - Calculus III
+     - Introductory Spanish
+     - Intermediate Spanish
+   
+</ol>
