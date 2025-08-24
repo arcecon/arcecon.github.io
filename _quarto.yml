@@ -15,6 +15,7 @@ website:
         href: teaching.qmd
       - text: Service and Workshops
         href: academic_service.qmd
+  favicon: my_headshots/favicon_9347.png
 
   # sidebar:
   #   style: "docked"
