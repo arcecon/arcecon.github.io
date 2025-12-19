@@ -13,6 +13,7 @@ editor: visual
 
    Presented at the
    
+   - 42nd United States Association for Energy Economics/International Association for Energy Economics North American Conference (2025)
    - Heartland Environmental and Resource Economics Workshop at Illinois (2024)
    - 25th Annual University of Colorado Environmental and Resource Economics Workshop (2024)
    - International Conference on Finance for the Common Good (2024)
