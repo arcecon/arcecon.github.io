@@ -59,7 +59,7 @@ editor: visual
 
 <span style="color:white; font-size:25pt;">**Research Experience**</span>
 
-1. <span style="color:white">**Research Assistant for Professor Charles F. Mason, University of Wyoming** (2021 -- Present)</span>
+1. <span style="color:white">**Research Assistant for Professor Charles F. Mason, University of Wyoming** (2021 -- 2025)</span>
 
    - Associate Editor for the journal *Economics of Energy and Environmental Policy*
      - Finding and inviting referees for submitted articles, and reviewing submitted articles.
